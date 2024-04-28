@@ -1,0 +1,1 @@
+export const usuarios = ['Batman','Superman','Catwoman','Spiderman','Hulk']
